@@ -6,7 +6,7 @@ This is the Interactive Whiteboard on which I worked for approximately 9 months.
 History
 -------
 
-In a CSC 425 Software Engineering I took in the winter term of 2012, my class decided to create an interactive whiteboard as a group project. The term wasn't long enough though, so I decided to try creating it on my own. The Interactive Whiteboard was the first "large" program (1000+ lines of code) I had ever attempted. It is written in Java with over 10,000 lines of code (not counting comments and extra formatting lines), and I created everything using only the standard Java libraries that came with my Java SDK from oracle.com . There are three parts: client, server, and databse, and I programmed all of them. I worked on the program over the course of approximately nine months: ~May 2012 - January 2013.
+In a CSC 425 Software Engineering class I took in the winter term of 2012, my class decided to create an interactive whiteboard as a group project. The term wasn't long enough though, so I decided to try creating it on my own. The Interactive Whiteboard was the first "large" program (1000+ lines of code) I had ever attempted. It is written in Java with over 10,000 lines of code (not counting comments and extra formatting lines), and I created everything using only the standard Java libraries that came with my Java SDK from oracle.com . There are three parts: client, server, and databse, and I programmed all of them. I worked on the program over the course of approximately nine months: ~May 2012 - January 2013.
 
 Login and User Information
 --------------------------
