@@ -21,7 +21,7 @@ Login and User Information
   <dt>Display Name</dt>
     <dd>the name of a user that is displayed online (usernames are not displayed)</dd>
   <dt>Display Name Change</dt>
-    <dd>allows a user to change his/her display name. to perform this function, the server administrator must generate a name change code, and this prevents users from repeatedly changing display name and confusing others</dd>
+    <dd>allows a user to change his/her display name. to perform this function, the server administrator must generate a name change code, and this prevents users from repeatedly changing their display name and confusing others</dd>
 </dl>
 
 Instant Messaging
@@ -29,22 +29,22 @@ Instant Messaging
 
 <dl>
   <dt>Friends List</dt>
-    <dd>provide a user's username to add him/her to your friends list. then, you are able to see if s/he is online and sned him/her private messages</dd>
+    <dd>provide a user's username to add him/her to your friends list. then, you are able to see if s/he is online and send him/her private messages</dd>
   <dt>Pests List</dt>
     <dd>if there is someone in particular you wish to avoid, provide his/her username and then s/he will always see you as offline and be unable to send you private messages</dd>
   <dt>Private Messaging</dt>
-    <dd>sends a message privately to someone on your friend's list. your friend does not have to be online.</dd>
+    <dd>sends a message privately to someone on your friend's list. your friend does not have to be online. if your friend is not online, s/he will see it the next time s/he logs on</dd>
 </dl>
 
 Interactive Whiteboard
 ----------------------
 <dl>
   <dt>Rooms</dt>
-    <dd>every room has a unique whiteboard, audio chat, instant messaging and user list.</dd>
+    <dd>every room has a unique whiteboard, audio chat, group text chat and user list.</dd>
   <dt>Room Creation, Modification</dt>
     <dd>each room has specific properties, such as its creation date and creator, which cannot be changed, or its name and if it is password protected, which can both be modified.
   <dt>Audio Chat</dt>
-    <dd>allows you to speak to others as if you were physically in the same room with them. currently, it is lossy, and I have had difficulty testing it with 3+ computers</dd>
+    <dd>allows you to speak to others as if you were physically in the same room with them. currently, it is lossy and echoes (I have not been able to find many online resources for computer audio).</dd>
   <dt>Whiteboard</dt>
     <dd>allows you to draw on a whiteboard and others can see what you have drawn. new users joining the room will also be able to see what you has been drawn previously. there is only one whiteboard in the room and only one person can draw on it at a time. if two people want to draw on it, they must "pass" it around (see user list description).</dd>
   <dt>Text Chat</dt>
@@ -56,4 +56,4 @@ Current Stage and Future Improvements
 -------------------------------------
 
   This program is functional. The login and user information works fine. There remain a few problems with Friends List, Pests List and Private Messaging, and the code for the Room functionalities could be more efficient - especially for the whiteboard.
-  I am especially proud that I addressed all the functionality I had planned, although there remain some bugs. In the future, I hope, with all the experience I have gained from this project, to rebuild an improved Interactive Whiteboard. Since January 2013, I have read much more on software engineering, gained greater practice with coding large programs, and experienced working in team environments.
+  I am especially proud that I addressed all the functionality I had planned, although there remain some bugs. In the future, I hope, with all the experience I have gained from this project, to rebuild an improved Interactive Whiteboard. Since January 2013, I have read much more on software engineering, gained greater practice with coding large programs, and experienced working in team environments. All of these will definitely help me, and I plan on recreating the Interactive Whiteboard this summer 2014, after my current projects (a 163 card game and studies in Computer Algebra) have been finished.
