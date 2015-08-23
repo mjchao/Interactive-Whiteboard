@@ -30,6 +30,10 @@ Once both servers are up and running, you can run multiple clients to connect to
 
 First, we will get one client connected to a room. Run one instance of "Whiteboard Client v3.jar" in the "Interactive Whiteboard 3 Client" folder. Hopefully, your Whiteboard Server will also be running on the same computer, so you should be okay using localhost as the IP and 9999 is automatically the Whiteboard Server's port. You should use mjchao as the username, and change the password to abcdefg (it is not abcdefg by default). Your login should succeed and you will be taken to a blank page. In the menu, select "Room->Join a Room" and you will be taken to a new window with 1 room to join. There is 1 room because the database comes with 1 room in its datafiles. Click "View" and notice that it says "Password Protection: ON". In the "Join Password" field, type "qaz", which is the password for the room and then click "Join". The room should appear.
 
+Now, we will get a second client connected to the same room. Run another instance of "Whiteboard Client v3.jar". This time, log in with username "mjchao2" and password "abcefg". Follow the same sequence of steps to join the room. Now, you should have two users in one room, and if you want, you could join with a third user (e.g. username = "person1", password = "abcdefg" - Look through all the datafiles in the "Interactive Whiteboard 3 Database" to find out all registered users).
+
+
+
 ###Version 4
 Version 4 consists of just the client user interface. It has fake data and one room with 3 whiteboard activities. Inside the "IW Client 4" folder, simply run "Client 4.jar" and you will see the login interface. The password does not matter, so just click "Login". You can navigate to different features with the menu. The same features from version 3 are present: account settings, one-to-one messaging, and group collaboration.
 
