@@ -60,7 +60,7 @@ public class ServerUIListener implements ActionListener
 				m_messagingServer.start();
 				//try to start the room data server
 				outputMessage = Text.SERVERUILISTENER.ROOM_DATA_SERVER_START_FAILED_ERROR_MESSAGE;
-				outputMessage = Text.SERVERUILISTENER.ROOM_DATA_SERVER_START_FAILED_LOG_MESSAGE;
+				outputLogMessage = Text.SERVERUILISTENER.ROOM_DATA_SERVER_START_FAILED_LOG_MESSAGE;
 				m_roomDataServer = new RoomDataServer();
 				m_roomDataServer.start();
 				//try to start the room server

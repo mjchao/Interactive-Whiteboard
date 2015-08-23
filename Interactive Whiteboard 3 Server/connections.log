@@ -264,3 +264,84 @@ Sat Oct 26 14:43:55 EDT 2013:          The database server has accepted this mac
 Sat Oct 26 14:43:55 EDT 2013:          Successfully connected to the database server "localhost" on port 9000.
 Sat Oct 26 14:43:57 EDT 2013:          Failed to start server. Reason: Messaging server unable to use port 9998.
 Sat Oct 26 14:44:05 EDT 2013:          Failed to start server. Reason: Main server unable to use port 9999.
+Sat Aug 22 20:30:34 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:30:34 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:30:34 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:30:41 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:31:47 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:31:47 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:31:47 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:31:51 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:32:04 EDT 2015:          Failed to start server. Reason: Main server unable to use port 9999.
+Sat Aug 22 20:33:45 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:33:45 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:33:45 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:33:49 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:34:23 EDT 2015:          Failed to start server. Reason: Main server unable to use port 9999.
+Sat Aug 22 20:34:36 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:34:36 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:34:36 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:34:40 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:37:16 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:37:17 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:37:17 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:37:19 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:41:39 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:41:39 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:41:39 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:41:47 EDT 2015:          Failed to start server. Reason: Messaging server unable to use port 9998.
+Sat Aug 22 20:42:50 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:42:50 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:42:50 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:45:25 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:45:25 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:45:25 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:45:27 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:45:58 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:45:58 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:45:58 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:45:59 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:46:25 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:46:25 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:46:25 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:46:26 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:47:21 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:47:21 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:47:21 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:47:22 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:50:56 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:50:56 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:50:56 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:50:57 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:52:06 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:52:06 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:52:06 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:52:07 EDT 2015:          Failed to start server. Reason: Room data server unable to use port 9997
+Sat Aug 22 20:54:41 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:54:41 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:54:41 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:54:54 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:54:54 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:54:54 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:56:22 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:56:22 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:56:22 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:56:36 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:56:36 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:56:36 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:56:46 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:56:46 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:56:46 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:59:15 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:59:15 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:59:15 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 20:59:59 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 20:59:59 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 20:59:59 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 21:02:15 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 21:02:15 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 21:02:15 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 21:08:28 EDT 2015:          The database server has accepted this machine's IP address.
+Sat Aug 22 21:08:28 EDT 2015:          The database server has accepted this machine's connection password.
+Sat Aug 22 21:08:28 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sat Aug 22 21:08:31 EDT 2015:          Server started.

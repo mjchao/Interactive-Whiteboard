@@ -1012,3 +1012,78 @@ Sat Oct 26 14:43:54 EDT 2013:          Accepted "10.2.32.195". Reason: all tests
 Sat Oct 26 14:44:26 EDT 2013:          Connection to whiteboard server "10.2.32.195" was lost.
 Sat Oct 26 14:44:26 EDT 2013:          Waiting for an incoming connection.
 Sat Oct 26 14:44:30 EDT 2013:          Rejected "127.0.0.1". Reason: lost connection at request connection password phase.
+Sat Aug 22 20:30:16 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:30:34 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:30:58 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:30:58 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:31:39 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:31:47 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:32:19 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:32:19 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:33:36 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:33:45 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:34:29 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:34:29 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:34:36 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:36:22 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:36:22 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:37:07 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:37:17 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:38:23 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:38:23 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:41:18 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:41:39 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:42:46 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:42:46 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:42:50 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:45:20 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:45:20 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:45:25 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:45:54 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:45:54 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:45:58 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:46:22 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:46:22 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:46:25 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:46:29 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:46:29 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:47:13 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:47:21 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:48:07 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:48:07 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:50:20 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:50:56 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:51:01 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:51:01 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:52:06 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:52:34 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:52:34 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:54:31 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:54:41 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:54:45 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:54:45 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:54:54 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:56:14 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:56:14 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:56:22 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:56:31 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:56:31 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:56:36 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:56:43 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:56:43 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:56:46 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:59:11 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:59:11 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:59:15 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 20:59:55 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 20:59:55 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 20:59:59 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 21:01:18 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 21:01:18 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 21:02:15 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 21:03:10 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 21:03:10 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 21:08:18 EDT 2015:          Waiting for an incoming connection.
+Sat Aug 22 21:08:28 EDT 2015:          Accepted "192.168.1.17". Reason: all tests passed.
+Sat Aug 22 21:12:57 EDT 2015:          Connection to whiteboard server "192.168.1.17" was lost.
+Sat Aug 22 21:12:57 EDT 2015:          Waiting for an incoming connection.

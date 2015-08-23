@@ -46,6 +46,7 @@ final public class RoomDataServer extends Server
 		this.m_existingRooms = new boolean[this.m_maximumRoomsStored];
 		this.m_roomServers = new RoomServer[this.m_maximumRoomsStored];
 		loadExistingRooms();
+		System.out.println( "Finished laoding room data server." );
 	}
 	
 	@Override

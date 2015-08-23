@@ -1,0 +1,13 @@
+person1
+abcdefg
+Nick
+---
+1
+mjchao
+0
+5
+mjchao2 person1 Hi,�Nick false
+person1 mjchao2 Hello,�No_Name. true
+person1 mjchao2 How�are�you�today? true
+person1 mjchao2 How�were�your�classes? true
+mjchao2 person1 Great!�I�think�I�aced�my�physics�test! false
