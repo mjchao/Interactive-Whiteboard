@@ -8,6 +8,14 @@ History
 
 In a CSC 425 Software Engineering class I took in the winter term of 2012, my class decided to create an interactive whiteboard as a group project. The term wasn't long enough though, so I decided to try creating it on my own. The Interactive Whiteboard was the first "large" program (1000+ lines of code) I had ever attempted. It is written in Java with over 10,000 lines of code (not counting comments and extra formatting lines), and I created everything using only the standard Java libraries that came with my Java SDK from oracle.com . There are three parts: client, server, and databse, and I programmed all of them. I worked on the program over the course of approximately nine months: ~May 2012 - January 2013.
 
+Versions
+--------
+You may notice that I am up to version 4, and you may be wondering what happened in versions 1 and 2. Version 1 was my project from CSC 425 that was never finished since the term was over. Version 2 was my first attempt at creating the Interactive Whiteboard, which took place around March 2012 - May 2012. I soon scrapped the project as it was not well-engineered and fell apart. Version 3 was my first "working" version of the Interactive Whiteboard, but it proved buggy and unmaintainable, but the product functions and does not fall apart. 
+
+Eventually, I realized it was time for me to move on from interactive whiteboards, so I went on to other interesting projects in Summer 2013. In July 2014, after reading *Don't Make Me Think! Revisited* by Steve Krug, I attempted to make a better user interface, which became IW Client 4, the client application for the fourth version of the interactive whiteboard. 
+
+As of right now (August 2015), I am still interested in reworking the Interactive Whiteboard. I have gained much more software engineering experience and I am familiar with more maintainable networking practices. I have plans to give it a new name "Clip-Board" and am in the process of writing new requirements. The development may be a bit slow, though, as I have a lot going on, but I am sure I can find time for an additional project.  
+
 Login and User Information
 --------------------------
 
