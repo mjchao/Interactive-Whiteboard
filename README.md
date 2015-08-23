@@ -20,6 +20,15 @@ Running the Whiteboard
 --------
 
 ###Version 3
+It can be a bit difficult to get Version 3 running because it involves starting a database server and a whiteboard server. You must also have ports 9000, and 9994 through 10010 free, or else the servers cannot start. The user interface may also feel a bit unintuitive. Please bear with these shortcomings, as this was my first major project.
+
+Once you've made sure the ports are available, you should start the database server first. You should run "Database Server v3.jar" in the "Interactive Whiteboard 3 Database" folder. A user interface will appear, and you should click "Start". If everything works correctly, you should get a message, "The server was successfully started." You can close out the program log if you wish.
+
+When the Database Server is started, you should then start the whiteboard server. You should run "Whiteboard Server v3.jar" in the "Interactive Whiteboard 3 Server" folder. A user interface will appear asking you for the Database Server's location. Hopefully, you are running the Database Server on the same machine, and you can just click "Load Server". If that's not the case, enter the correct IP Address of the Database Server. The port is configured to be 9000 for the Database Server, and there's no need to change that. Once the Whiteboard Server is loaded, you will see a big "Start" button and you should click that. If everything works correctly, you should get a message, "The server was successfully started." You can close out the program log if you wish.
+
+Once both servers are up and running, you can run multiple clients to connect to it. In the following steps, we will go through getting two clients to draw on the whiteboard of a room. 
+
+First, we will get one client connected to a room. Run "Whiteboard Client v3.jar" in the "Interactive Whiteboard 3 Client" folder
 
 ###Version 4
 Version 4 consists of just the client user interface. It has fake data and one room with 3 whiteboard activities. Inside the "IW Client 4" folder, simply run "Client 4.jar" and you will see the login interface. The password does not matter, so just click "Login". You can navigate to different features with the menu. The same features from version 3 are present: account settings, one-to-one messaging, and group collaboration.
