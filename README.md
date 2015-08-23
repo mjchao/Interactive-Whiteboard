@@ -28,7 +28,7 @@ When the Database Server is started, you should then start the whiteboard server
 
 Once both servers are up and running, you can run multiple clients to connect to it. In the following steps, we will go through getting two clients to draw on the whiteboard of a room. 
 
-First, we will get one client connected to a room. Run "Whiteboard Client v3.jar" in the "Interactive Whiteboard 3 Client" folder
+First, we will get one client connected to a room. Run one instance of "Whiteboard Client v3.jar" in the "Interactive Whiteboard 3 Client" folder. Hopefully, your Whiteboard Server will also be running on the same computer, so you should be okay using localhost as the IP and 9999 is automatically the Whiteboard Server's port. You should use mjchao as the username, and change the password to abcdefg (it is not abcdefg by default). Your login should succeed and you will be taken to a blank page. In the menu, select "Room->Join a Room" and you will be taken to a new window with 1 room to join. There is 1 room because the database comes with 1 room in its datafiles. Click "View" and notice that it says "Password Protection: ON". In the "Join Password" field, type "qaz", which is the password for the room and then click "Join". The room should appear.
 
 ###Version 4
 Version 4 consists of just the client user interface. It has fake data and one room with 3 whiteboard activities. Inside the "IW Client 4" folder, simply run "Client 4.jar" and you will see the login interface. The password does not matter, so just click "Login". You can navigate to different features with the menu. The same features from version 3 are present: account settings, one-to-one messaging, and group collaboration.
