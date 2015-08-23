@@ -357,3 +357,7 @@ Sun Aug 23 09:49:01 EDT 2015:          The database server has accepted this mac
 Sun Aug 23 09:49:01 EDT 2015:          The database server has accepted this machine's connection password.
 Sun Aug 23 09:49:01 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
 Sun Aug 23 09:49:04 EDT 2015:          Server started.
+Sun Aug 23 09:54:07 EDT 2015:          The database server has accepted this machine's IP address.
+Sun Aug 23 09:54:07 EDT 2015:          The database server has accepted this machine's connection password.
+Sun Aug 23 09:54:07 EDT 2015:          Successfully connected to the database server "localhost" on port 9000.
+Sun Aug 23 09:54:13 EDT 2015:          Server started.
