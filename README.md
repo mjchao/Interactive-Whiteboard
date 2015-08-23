@@ -16,6 +16,18 @@ Eventually, I realized it was time for me to move on from interactive whiteboard
 
 As of right now (August 2015), I am still interested in reworking the Interactive Whiteboard. I have gained much more software engineering experience and I am familiar with more maintainable networking practices. I have plans to give it a new name "Clip-Board" and am in the process of writing new requirements. The development may be a bit slow, though, as I have a lot going on, but I am sure I can find time for an additional project.  
 
+Running the Whiteboard
+--------
+
+###Version 3
+
+###Version 4
+Version 4 consists of just the client user interface. It has fake data and one room with 3 whiteboard activities. Inside the "IW Client 4" folder, simply run "Client 4.jar" and you will see the login interface. The password does not matter, so just click "Login". You can navigate to different features with the menu. The same features from version 3 are present: account settings, one-to-one messaging, and group collaboration.
+
+The notable improvement in version 4 is the room user interface. Go to Collaboration->Browse Rooms and you will see a table with various rooms to join. Since the server is not implemented, all the rooms are the same. Join any room you wish and you will be taken to the room user interface. You may wish to maximize this window, and you will see three whiteboard activities. 
+
+You can drag activities around by pressing the cursor over the title (a hand icon should appear). The whiteboard should let you draw on it, erase parts of it, and undo/redo actions. Additional activities could be added by extending the Activity class. The idea is that users will be able to add as many activities as they'd like, rearrange them however they want on the room, and collaborate.
+
 Login and User Information
 --------------------------
 
