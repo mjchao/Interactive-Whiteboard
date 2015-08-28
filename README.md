@@ -86,9 +86,3 @@ Interactive Whiteboard
     <dd>sends group text messages</dd>
   <dt>User List</dt>
     <dd>specifies user permissions. there are three ranks: administrator, moderator, normal user, represented by color. room creators are administrators and can nominate moderators. anyone with higher ranking can modify the privileges of people with lower ranking (for example, prevent someone from participating in audio chat, or take the whiteboard from him/her). the user list also allows you to "give" the whiteboard to someone else once you are done drawing on it.</dd>
-    
-Current Stage and Future Improvements
--------------------------------------
-
-  This program is functional. The login and user information works fine. There remain a few problems with Friends List, Pests List and Private Messaging, and the code for the Room functionalities could be more efficient - especially for the whiteboard.
-  I am especially proud that I addressed all the functionality I had planned, although there remain some bugs. In the future, I hope, with all the experience I have gained from this project, to rebuild an improved Interactive Whiteboard. Since January 2013, I have read much more on software engineering, gained greater practice with coding large programs, and experienced working in team environments. All of these will definitely help me, and I plan on recreating the Interactive Whiteboard this summer 2014, after my current projects (163, which is a card game, and studies in Computer Algebra) have been finished.
